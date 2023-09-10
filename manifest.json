@@ -1,0 +1,8 @@
+{
+    "name": "XHR Forwarder",
+    "version": "0.1",
+    "description": "Forward requests from watched pages.",
+    "permissions": ["http://localhost/*", "https://<website you want to forward from>/*"],
+    "devtools_page": "devtools.html",
+    "manifest_version": 2
+}
